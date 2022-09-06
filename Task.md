@@ -1,11 +1,11 @@
 # Chapter1
 
-## Cơ chế hoạt động của internet
+## 1.Cơ chế hoạt động của internet
     - Internet là một mạng lướt cáp toàn cầu. Khi truy cập vào trang web. máy tính sẽ yêu cầu gửi đường dây này tới 1 máy chủ.
 
     - Máy chủ là nơi lưu trữ trang web. Khi gửi yêu cầu tới. máy chủ sẽ truy xuất trang web  và gửi dữ liệu chính xác trở lại máy tính. Và việc đó chỉ diễn ra trong vài giây
 
-## Giải thích về protocol của HTTP/HTTPS
+## 2.Giải thích về protocol của HTTP/HTTPS
 ### HTTP:
 
     + Http (HyperText Transfer Protocol) là giao thức truyền tải siêu văn bản được sử dụng trong www dùng để truyền tải dữ liệu giữa Web server đến các trình duyệt Web và ngược lại. Giao thức này sử dụng cổng 80 (port 80) là chủ yếu.
@@ -28,7 +28,7 @@
 
     + Ngoài ra web sử dụng giao thức Https là 1 tín hiệu để Google xếp hạng từ khóa. Việc này khiến rất nhiều trang Web chuyển qua dùng giao thức Https để Seo được tốt hơn.
 
-## Cơ chế hoạt động của browser và sự khác nhau giữa các browser
+## 3.Cơ chế hoạt động của browser và sự khác nhau giữa các browser
 
 ### Cơ chế hoạt động của browser
 
@@ -64,7 +64,7 @@
 
         - Là trình duyệt phát triển bởi TQ, Nó được sử dụng nhiều cho các máy tính và thiết bị cấu hình yếu. Nhờ khả năng chống ngốn ram, khả năng tuỳ biến giao diện và thân thiện với người dùng.
 
-## Cơ chế hoạt động của DNS và domain
+## 4.Cơ chế hoạt động của DNS và domain
 
 ### Cách thực hoạt động của DNS: 
 
@@ -88,7 +88,7 @@
 
     + Khi bạn nhập một domain name vào thanh URL của trình duyệt web, lúc này nó sẽ gửi yêu cầu truy cập đến một mạng lưới máy chủ toàn cầu hình thành nên hệ thống domain (DNS). Sau đó các máy chủ toàn cầu này sẽ tìm kiếm các máy chủ có tên được liên kết với domain và chuyển tiếp yêu cầu đến các máy chủ tên đó.
 
-## Giải thích về hosting server
+## 5.Giải thích về hosting server
 
 ### Hosting là gì: 
 
